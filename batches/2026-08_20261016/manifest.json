@@ -1,0 +1,112 @@
+{
+  "archive": "202608--(20261016Update).rar",
+  "archive_sha256": "d060b781ca5357069bd4741d8ca1bd822340039e544016c3de5c0edae0021724",
+  "deletion_file": "Delete-Infor (2).csv",
+  "deletion_sha256": "7bdb33e9d1ac76ea0623ca7acc451dd56d5b139d5906da94fdb5da0d19b9600c",
+  "deletion_rows": 6451,
+  "deletion_unique_ids": 6451,
+  "counts": {
+    "json_entries": 104611,
+    "candidate_docs": 3313,
+    "deleted_matches": 1
+  },
+  "topic_keyword_hits": {
+    "保險與稅務": 516,
+    "車禍損害賠償": 1223,
+    "繼承": 1268,
+    "保險給付爭議-保障型": 242,
+    "保險給付爭議-身故傳承型": 172,
+    "職災與雇主責任": 195,
+    "特留分": 74,
+    "台美傳承": 41
+  },
+  "date_months": {
+    "202608": 104611
+  },
+  "types": {
+    "M": 36352,
+    "V": 64259,
+    "A": 3836,
+    "C": 149,
+    "P": 15
+  },
+  "parse_errors": [],
+  "duplicate_jids": [],
+  "elapsed_seconds": 52,
+  "batch_id": "2026-08_20261016",
+  "selected_count": 7,
+  "selected": [
+    {
+      "id": "TW-JUD-000002",
+      "jid": "MLDV,113,家繼訴,40,20260820,2",
+      "archive_path": "202608/臺灣苗栗地方法院民事/MLDV,113,家繼訴,40,20260820,2.json",
+      "raw_json_path": "sources/臺灣苗栗地方法院113年度家繼訴字第40號民事判決__2026-08-20.json",
+      "raw_json_sha256": "f462add840da233545912d36ebe14e288652a7a4847b092365eb50776f509bf9",
+      "text_path": "sources/TW-JUD-000002__original.txt",
+      "text_sha256": "3b34865cf7c15a93d3ef3276b7fedcf6b2a42f983dd4108e208e728ff4087f44",
+      "record_path": "records/judgments/TW-JUD-000002__2026-08-20__生前贈與歸扣與特留分現金補償.md"
+    },
+    {
+      "id": "TW-JUD-000003",
+      "jid": "TNDV,115,家繼訴,75,20260803,1",
+      "archive_path": "202608/臺灣臺南地方法院民事/TNDV,115,家繼訴,75,20260803,1.json",
+      "raw_json_path": "sources/臺灣臺南地方法院115年度家繼訴字第75號民事判決__2026-08-03.json",
+      "raw_json_sha256": "30f0ccc44b867c7f83a61133b865765e94884c006ecb35d86fd373e0ad0afb3d",
+      "text_path": "sources/TW-JUD-000003__original.txt",
+      "text_sha256": "7d42b270978223d49d997704d50cef5ed64c5af805bc1148dbd0fe067cd8b5e0",
+      "record_path": "records/judgments/TW-JUD-000003__2026-08-03__海外繼承人與遺產分割清單不完整.md"
+    },
+    {
+      "id": "TW-JUD-000004",
+      "jid": "TPHV,115,勞上易,38,20260825,1",
+      "archive_path": "202608/臺灣高等法院民事/TPHV,115,勞上易,38,20260825,1.json",
+      "raw_json_path": "sources/臺灣高等法院115年度勞上易字第38號民事判決__2026-08-25.json",
+      "raw_json_sha256": "108d4493b40d20c683368c7eb2f353c3d94d4975ee2f8218592ec1b8a28e1fc7",
+      "text_path": "sources/TW-JUD-000004__original.txt",
+      "text_sha256": "a1de2fa694d9260869875b23f521fb795a6d0ee5b53de42c186fef7bcce4672b",
+      "record_path": "records/judgments/TW-JUD-000004__2026-08-25__職災死亡補償與工會投保給付抵充.md"
+    },
+    {
+      "id": "TW-JUD-000005",
+      "jid": "NHEV,114,湖簡,528,20260812,2",
+      "archive_path": "202608/內湖簡易庭民事/NHEV,114,湖簡,528,20260812,2.json",
+      "raw_json_path": "sources/臺灣士林地方法院114年度湖簡字第528號民事簡易判決__2026-08-12.json",
+      "raw_json_sha256": "a8bcb2587cb9eeadd65ec41ebdc72eced4427968ca11653c0c87f5850ebba208",
+      "text_path": "sources/TW-JUD-000005__original.txt",
+      "text_sha256": "71ec2cdcb16caf21d075f4adb2ca18748ffa29bba794ffa4a0846a0158d01a6b",
+      "record_path": "records/judgments/TW-JUD-000005__2026-08-12__車禍勞動能力減損與未來醫療費證明.md"
+    },
+    {
+      "id": "TW-JUD-000006",
+      "jid": "CYDV,114,保險,13,20260806,1",
+      "archive_path": "202608/臺灣嘉義地方法院民事/CYDV,114,保險,13,20260806,1.json",
+      "raw_json_path": "sources/臺灣嘉義地方法院114年度保險字第13號民事判決__2026-08-06.json",
+      "raw_json_sha256": "0c4f2ca35579237f3b403982b10a79280e260fcb4862e7978e3d7f37d4c372a1",
+      "text_path": "sources/TW-JUD-000006__original.txt",
+      "text_sha256": "4f2a59af6c8ce5f6f626fba2f6284b35ded14878d51620cc115fc1df3e12d60a",
+      "record_path": "records/judgments/TW-JUD-000006__2026-08-06__復健住院必要性與評議及鑑定差異.md"
+    },
+    {
+      "id": "TW-JUD-000007",
+      "jid": "PCDV,115,保險,3,20260827,1",
+      "archive_path": "202608/臺灣新北地方法院民事/PCDV,115,保險,3,20260827,1.json",
+      "raw_json_path": "sources/臺灣新北地方法院115年度保險字第3號民事判決__2026-08-27.json",
+      "raw_json_sha256": "8a31d137719987d4c0878a1eedbb78a294c187557f7165d2b1ca2ce62643398c",
+      "text_path": "sources/TW-JUD-000007__original.txt",
+      "text_sha256": "3fcd135e00ce8453c8aaff823733098b1199d969276b9c2c6612fb40a78e4b89",
+      "record_path": "records/judgments/TW-JUD-000007__2026-08-27__身故原因爭議與壽險及意外附約分開判斷.md"
+    },
+    {
+      "id": "TW-JUD-000008",
+      "jid": "TPDV,114,保險,44,20260821,1",
+      "archive_path": "202608/臺灣臺北地方法院民事/TPDV,114,保險,44,20260821,1.json",
+      "raw_json_path": "sources/臺灣臺北地方法院114年度保險字第44號民事判決__2026-08-21.json",
+      "raw_json_sha256": "47684b1951f87481ee0f9cd5d76a096c85de66b9b0d197c79ff960863ac51f1d",
+      "text_path": "sources/TW-JUD-000008__original.txt",
+      "text_sha256": "532faddeeb3d8f9198f4905f0c1b06b942f9e0e50d7ac7672c1c8ffe30d1374e",
+      "record_path": "records/judgments/TW-JUD-000008__2026-08-21__扣押解約金後身故與指定受益人權利.md"
+    }
+  ],
+  "method": "規則關鍵詞初篩後，人工閱讀選出首批7件；非全面逐案實體審查",
+  "live_deletion_checked": false
+}
